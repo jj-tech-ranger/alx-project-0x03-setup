@@ -12,8 +12,7 @@ const Home: React.FC = () => {
   return (
     <Layout>
       <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-500 to-purple-600 text-white">
-        <h1 className="text-5xl font-bold mb-4">Welcome to Shopify</h1>
-        <p className="text-lg mb-6">Your one-stop solution for all your needs.</p>
+        <h1 className="text-5xl font-bold mb-4"> Welcome to Splash App </h1>        <p className="text-lg mb-6">Your one-stop solution for all your needs.</p>
         <Button
           buttonLabel="Explore Now"
           buttonSize="large"
